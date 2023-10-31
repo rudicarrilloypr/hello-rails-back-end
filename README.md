@@ -98,7 +98,7 @@ Before you proceed, ensure that you have the following installed on your machine
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:rudicarrilloypr/hello-rails-react.git
+  git clone git@github.com:rudicarrilloypr/hello-rails-back-end.git
 ```
 
 ### Install
